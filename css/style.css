@@ -82,6 +82,13 @@ header .nav ul div.mega-dropdown-menu ul.dropdown-menu {
     padding-top: 17px;
 }
 
+header .nav ul div.mega-dropdown-menu img {
+	position: absolute;
+	right:530px;
+	top: 200px;
+	width: 20%;
+}
+
 header .nav ul div.mega-dropdown-menu p {
     max-width: 500px;
 }
